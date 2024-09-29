@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @author Peize Li
+ *
  * 创建牌堆：
  * 使用 ArrayList<Card> 创建一个空集合 cardList 来存放所有的牌。
  * 使用两个嵌套循环来创建一副完整的扑克牌。外层循环负责牌面值，内层循环负责四种花色。
